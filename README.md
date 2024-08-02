@@ -3,12 +3,12 @@ Aula IMPACTA
 
 b) resultado:
 
-'''
+```
 Changes to be committed:
   (use "git reset HEAD <file>..." to unstage)
 
   new file:   arquivo.txt
-'''
+```
 c) resultado:
 
  git add example - arquivo.txt
