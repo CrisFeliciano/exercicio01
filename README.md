@@ -1,6 +1,46 @@
 # exercicio01
 Aula IMPACTA
 
+# COMANDOS:
+
+```
+echo 01 > arquivo.txt
+
+git add arquivo.txt
+git status
+
+git commit -m "git add example - arquivo.txt"
+
+echo 02 > arquivo.txt
+
+git diff
+
+git add arquivo.txt
+git status
+
+git diff --cached
+
+echo 03 > arquivo.txt
+
+git diff
+
+git restore --staged arquivo.txt
+git status
+
+git commit -m "Updated arquivo.txt to 02"
+git log --oneline
+
+echo "*.txt" > .gitignore
+git add .gitignore
+git commit -m "Add gitignore to exclude .txt files"
+
+echo "conteúdo" > novo.txt
+git status
+```
+
+
+# RESULDADOS
+
 b) resultado:
 
 ```
