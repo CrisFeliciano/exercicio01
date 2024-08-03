@@ -1,7 +1,7 @@
-# exercicio01
-Aula IMPACTA
 
-# COMANDOS:
+# Aula IMPACTA
+
+## COMANDOS:
 
 ```
 echo 01 > arquivo.txt
@@ -39,7 +39,7 @@ git status
 ```
 
 
-# RESULDADOS
+## RESULDADOS
 
 b) resultado:
 
